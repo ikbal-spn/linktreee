@@ -82,7 +82,7 @@ new Vue({
 					label: "ngl"
 				},
 				{
-					url: "http://google.com",
+					url: "https://open.spotify.com/user/0xwwf8t3uy5zjcpjw65jfhd6d?si=4kedxMXkTqy1L8XRx5bTEw",
 					label: "Spotify"
 				},
 				{
