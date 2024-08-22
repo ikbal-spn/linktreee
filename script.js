@@ -78,7 +78,7 @@ new Vue({
 			},
 			links: [
 				{
-					url: "http://google.com",
+					url: "https://ngl.link/astdm_al2",
 					label: "ngl"
 				},
 				{
