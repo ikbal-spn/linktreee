@@ -73,7 +73,7 @@ new Vue({
 					text: "Ikbal spn"
 				},
 				description: {
-					text: "Saya suka banget jalan-jalan, nyari pengalaman seru di tempat-tempat baru. Nggak cuma itu, saya juga hobi main bulu tangkis buat ngeluarin energi dan ngasah skill. Teknologi juga jadi passion utama saya, dan cita-cita saya adalah jadi programmer keren yang bisa bikin inovasi digital. Bagi saya, hidup itu soal terus belajar, eksplorasi, dan menikmati setiap momen yang ada."
+					text: "Bagi saya, hidup itu soal terus belajar, eksplorasi, dan menikmati setiap momen yang ada."
 				}
 			},
 			links: [
